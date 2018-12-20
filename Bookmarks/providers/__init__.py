@@ -8,3 +8,4 @@ from .iexplorer import InternetExplorerProvider
 from .iridium import IridiumProvider
 from .vivaldi import VivaldiProvider
 from .buku import BukuProvider
+from .shaarli import ShaarliProvider
